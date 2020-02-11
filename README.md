@@ -22,10 +22,18 @@ Get your imagination into reality with FUTURE AUTOMATION
 ♦♦♦♦♦♦♦♦♦♦
 
 
-Steps to install and use selenium:
+# Steps to install and use selenium:
 
 1. Install selenium package - 
          pip install selenium
          conda install selenium
 2. download the webdriver from above link.
 3. Get coding
+
+# first code
+
+from selenium import webdriver
+browser = webdriver.Chrome('path of webdriver')
+browser.get('domain name')
+
+Next video coming soon......

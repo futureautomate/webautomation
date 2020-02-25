@@ -4,9 +4,12 @@ This is a brief intro to web automation using selenium! Check out my latest vide
 ►LINK FOR CODE SNIPPET GITHUB - https://github.com/futureautomate
 
 ► LINK FOR SELENIUM DETAILS - https://selenium.dev/
+
 ► LINK FOR CHROME DRIVER  DOWNLOAD- https://chromedriver.chromium.org/downloads
+
 ►LINK FOR FIREFOX DRIVER - 
 https://github.com/mozilla/geckodriver/releases
+
 ►LINK FOR IE DRIVER - 
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
@@ -33,7 +36,9 @@ Get your imagination into reality with FUTURE AUTOMATION
 # first code
 
 from selenium import webdriver
+
 browser = webdriver.Chrome('path of webdriver')
+
 browser.get('domain name')
 
 Next video coming soon......
